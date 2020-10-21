@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I'm a ten years rookie developer ...
+- 💬 Buy an iPhone, update system and apps both ...
+
 <!--
 **jingxijun/jingxijun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
